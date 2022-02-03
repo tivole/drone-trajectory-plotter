@@ -1,7 +1,6 @@
 # Ip addresses of tellos to connect. 
 TELLO_IP_ADDRESSES = [
-        # "192.168.1.101",
-        "192.168.1.102"
+        "192.168.1.101",
 ]
 
 # Initial coordinates of tellos in positioner and in plotter.
